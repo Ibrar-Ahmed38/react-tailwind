@@ -100,7 +100,11 @@ const RecentJob = () => {
                 </div>
                 <hr className="w-4/5 m-0 mx-auto mt-4 mb-4" />
             </div>
-
+               
+         <div className="text-center">
+            <button className="w-24 rounded-xl bg-transparent border-2">Previous</button>
+            <button className="w-16 rounded-xl text-blue-700 bg-transparent border-2 ml-2">Next</button>
+        </div>
 
         </div>
     );
