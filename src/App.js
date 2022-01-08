@@ -4,7 +4,6 @@ import RecentJob from './Components/RecentJob'
 function App() {
   return (
     <>
-    
     <RecentJob />
 
     </>
